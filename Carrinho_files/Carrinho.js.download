@@ -1,0 +1,155 @@
+let produtoJson = [
+    {
+        id: 1,
+        name: 'Tênis Masculino e Feminino Nike Air Presto',
+        img: 'image/Produto (CA)/produto 1 (CA).png',
+        price: [197.90, 197.90,197.90,197.90],
+        sizes: [
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+          ],
+        
+        description: 'A opção perfeita para esportes de alta performance',
+        
+        },
+    
+      {
+        id: 2,
+        name: 'Tênis Feminino Jogging Branco / Rosa Baby',
+        img: 'image/Produto (CA)/produto 2 (CA).png',
+        price: [99.00, 99.00,99.00,99.00],
+        sizes: [ 
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+        ],
+        sizescor: [
+          'Preto',
+          '.',
+        ], 
+        description: 'Trazendo estilo e conforto nosso tênis Jogging vem com o solado plataforma estilo esportivo'
+      },
+      {
+        id: 3,
+        name: 'Tênis Olympikus Urano Masculino e Feminino',
+        img: 'image/Produto (CA)/produto 3 (CA).png',
+        price: [109.95,109.95,109.95,109.95,],
+        sizes: [
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+        ],
+        description: ' O Olympikus Urano é o tênis ideal para quem busca conforto e estilo no seu dia a dia'
+      },
+      {
+        id: 4,
+        name: 'Tenis Casual Feminino Branco Original Confortavel - Branco',
+        img: 'image/Produto (CA)/produto 4 (CA).png',
+        price: [89.99, 89.99,89.99,89.99],
+        sizes: [
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+        ],
+        description: 'Para todos os gostos, para todos os dias! O Tênis Belo Horizonte Branco é casual e indispensável no seu guarda-roupa'
+      },
+      {
+        id: 5,
+        name: 'Tênis Casual Siena Sola Alta Marsala DKShoes',
+        img: 'image/Produto (CA)/produto 5 (CA).png',
+        price: [109.99,109.99,109.99,109.99],
+        sizes: [
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+        ],
+        description: 'A sola do casual flatform te deixa até 3cm mais alta! Qualidade, estilo e muito conforto'
+      },
+      {
+        id: 6,
+        name: 'Tênis Adidas Run 70s Masculino',
+        img: 'image/Produto (CA)/produto 6 (CA).png',
+        price: [480.05,480.05,480.05,480.05],
+        sizes: [
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+        ],
+        description: 'Entregando uma pegada clássica, o Tênis Adidas Run 70s masculino é a escolha ideal para incrementar o seu estilo casual'
+      },
+      {
+        id: 7,
+        name: 'Tenis Asics Gel Nagoya 5 Masculino',
+        img: 'image/Produto (CA)/produto 7 (CA).png',
+        price: [455.90,455.90,455.90,455.90],
+        sizes: [
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+        ],
+        description: 'O GEL NAGOYA 5 chega com um design moderno mas sem deixar de lado a sua performance chamando a atenção e o desejo dos corredores.'
+      },
+      {
+        id: 8,
+        name: 'Tênis Infantil Feminino',
+        img:'image/Produto (CA)/produto 8 (CA).png',
+        price: [119.90,119.90,119.90,119.90],
+        sizes: [
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+        ],
+        description:'Tênis Infantil Feminino Pé com Pé Confeccionado em sintético multicores'
+      },
+        {
+        id: 9,
+        name: 'Tênis Olympikus Flutua Feminino',
+        img: 'image/Produto (CA)/produto 9 (CA).png',
+        price: [179.99,179.99,179.99,179.99],
+        sizes: [
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+          '.',
+          
+        
+        ],
+        description: 'O Olympikus Flutua é o tênis ideal para quem busca leveza e conforto no seu dia a dia'
+      }
+];
